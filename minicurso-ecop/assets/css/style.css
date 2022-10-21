@@ -1,0 +1,107 @@
+:root {
+
+    --cta: #FF6E65;
+    --white1: #ffffff;
+    --black1: #0e0e0e;
+    --black2: #121212;
+    --gray1: #efefef;
+    
+    --border-cta: 50px;
+    }
+    
+    * {
+        font-family: 'Roboto', sans-serif;
+    }
+    html {
+        scroll-behavior: smooth;
+    }
+    header {
+        position: fixed;
+        width: 100%;
+        padding: 30px 200px;
+        background: var(--black1);
+        color: var(--white);
+    
+    }
+    
+    nav {
+    
+        display: flex;
+        justify-content: space-between;
+        
+    }
+    
+    
+    nav > div {
+        color: var(--white1);
+        display: flex;
+        gap: 20px;
+    }
+    
+    .nav-a{
+        font-size: 17px;
+    }
+    
+    .nav-button{
+        background: var(--cta);
+        color: var(--black2);
+        padding: 10px 20px;
+        font-weight: 700;
+        font-size: 16px;
+        border-radius: var(--border-cta);
+    }
+    #home{
+        display: flex;
+        align-items: center;
+        padding: 120px 200px 100px 200px;
+        width: 100%;
+        background: linear-gradient(287.52deg, var(--black1) 76.11%, var(--white1) 76.11%);
+        justify-content: space-between;
+    }
+    
+    .home-img{
+        background-color: var(--black1);
+        border-radius: 150px 15px;
+        
+        
+    }
+    
+    .home-div-names{
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+        align-items: flex-end;
+
+           
+    }
+    
+    .names-text{
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+    
+    .home-p{
+        font-size: 34px;
+        line-height: 50px;
+        color: var(--white1);
+    }
+
+    .prof{
+        font-size: 20px;
+
+    }
+    
+    .home-p > span {
+        font-size: 50px;
+        color: var(--cta);
+    }
+
+    .home-button{
+        background: var(--cta);
+        border-radius: var(--border-cta);
+        font-size: 24px;
+        padding: 15px 30px;
+       
+        color: var(--white1);
+    }

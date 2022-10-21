@@ -1,0 +1,26 @@
+sobre mim:
+Lorem ipsum dolor sit amet. Sit exercitationem quam ut repudiandae doloremque in sint illum ut porro?
+Et enim quis eos perferendis obcaecati aut expedita blanditiis quo culpa quisquam aut nihil quia.
+Et harum saepe hic itaque internos qui culpa quidem et numquam rerum.
+
+Et galisum porro est ipsa iure vel consequuntur sequi ut eveniet voluptas est dolores deserunt.
+Ut harum sint ea dignissimos rerum sit aspernatur nihil ad voluptatem obcaecati.
+
+
+
+
+certificados:
+Tecnologia da Informação - UFERSA
+Curso de graduação Bacharelado Interdisciplinar em Tecnologia da Informação na Universidade Federal Rural do Semi-Árido.
+
+Curso de JavaScript na UFERSA
+Curso de atividades extra-curriculares na Universidade Federal Rural do Semi-Árido focado em JavaScript.
+
+Curso de Python - Curso em Vídeo
+Curso de Python na plataforma de cursos online Curso em vídeo focado no aprendizado da linguagem Python.
+
+
+
+projetos:
+Nome do projeto
+Projeto feito em React e NodeJS como atividade do curso de JavaScript feito na UFERSA
